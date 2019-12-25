@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<account>
+  <user>
+    <name>vp</name>
+    <password/>
+    <email/>
+    <title>20'cents</title>
+    <config>config.json</config>
+    <created/>
+    <lastUpdate/>
+  </user>
+  <user>
+    <name>vip</name>
+    <password/>
+    <email/>
+    <title>VIP photo gallery</title>
+    <config>config.json</config>
+    <created/>
+    <lastUpdate/>
+  </user>
+  <user>
+    <name>vincent</name>
+    <alias>vincent</alias>
+    <password>$2y$12$mCfME6YAlaXtXns4J4EuoeL0TGsLafz6N3VSZILPO4DVPDBmIUB0m</password>
+    <email>vpaveau@yahoo.fr</email>
+    <title>vincent photo gallery</title>
+    <config>config.json</config>
+    <created>1487022385</created>
+    <lastUpdate>1487022479</lastUpdate>
+    <key>f6c5350c383b56159ff03fe874461d61</key>
+    <activated></activated>
+  </user>
+</account>
